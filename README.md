@@ -13,6 +13,7 @@ Interactive Power BI dashboard designed to analyze customer churn behavior and i
 - Data Analysis
 
 ## Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
 
 ## Project File
 PBIX file included in repository.
